@@ -114,5 +114,4 @@ app.delete("/usuario/:id",async (req, res) => {
     }
 });
 
-
 app.listen(3333, ()=> console.log("Servidor Rodando..."))
